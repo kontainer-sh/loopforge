@@ -1,0 +1,4 @@
+# Add dependencies for the project here
+# Example:
+# openai==0.10.0
+
