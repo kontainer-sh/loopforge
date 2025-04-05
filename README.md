@@ -17,7 +17,7 @@ LoopForge aims to create a self-improving software development environment where
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_COMPANY/loopforge.git
+    git clone https://github.com/kontainer-sh/loopforge.git
     ```
 
 2. Install dependencies:
